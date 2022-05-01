@@ -3,8 +3,8 @@ Todo-list is a personal project for learning different features of JavaScript.
 The aim of this project is to show a list of tasks you need to complete or things that you want to do.
 
 ## in this project I used:
-* [bootstrap] (https://getbootstrap.com/) to facilitate writing css.
-* [fontawesome] (https://fontawesome.com/) to insert trach icon.
+* [bootstrap](https://getbootstrap.com/) to facilitate writing css.
+* [fontawesome](https://fontawesome.com/) to insert trach icon.
 * modern javascript functions (like arrow functions, from(), filter(), forEach(), ... ).
 
 ## Features
@@ -20,5 +20,5 @@ To run funny-quiz, Just use steps below:
 3. go to `file:///directory/index.html` to see your Todo-list version.
 
 ## TODO
-[ ] add local storage for todos.
-[ ] add firebase backend storage and login page.
+- [ ] add local storage for todos.
+- [ ] add firebase backend storage and login page.
