@@ -2,6 +2,10 @@
 Todo-list is a personal project for learning different features of JavaScript.
 The aim of this project is to show a list of tasks you need to complete or things that you want to do.
 
+## Screen Shots
+
+<img src="https://github.com/HassanZz/Todo-list/blob/main/ScreenShots/todo.PNG?raw=true" width="400" height="400" />
+
 ## in this project I used:
 * [bootstrap](https://getbootstrap.com/) to facilitate writing css.
 * [fontawesome](https://fontawesome.com/) to insert trach icon.
